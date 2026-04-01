@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day1/4. Exercise.md",
+                "file": "day1/2. NPM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Exercise"
+              "title": "2. NPM"
             }
           }
         ]
@@ -183,12 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "e89723b55fe8bb82",
+  "active": "c262c3bb81a9c474",
   "lastOpenFiles": [
-    "day1/1. Node.md",
-    "day1/2. NPM.md",
     "day1/3. Setting up a Node Project.md",
+    "day1/2. NPM.md",
     "day1/4. Exercise.md",
+    "day1/1. Node.md",
     "day1/exercise/node_modules/chalk/source/vendor/supports-color/index.js",
     "day1/exercise/node_modules/chalk/source/vendor/supports-color/index.d.ts",
     "day1/exercise/node_modules/chalk/source/vendor/supports-color/browser.js",
