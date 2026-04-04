@@ -1,9 +1,7 @@
 "use strict";
-
 import chalk from "chalk";
 
 function multiColor(userInput) {
-  console.log(chalk.rgb);
   let output = "";
   for (let letter of userInput) {
     let r = Math.floor(Math.random() * 256);
